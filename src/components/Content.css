@@ -1,0 +1,36 @@
+.card {
+  font-size: 20px;
+  box-sizing: inherit;
+}
+
+p {
+  margin: 0;
+  text-justify: auto;
+}
+
+p:not(:last-child) {
+  margin-bottom: 1.5em;
+}
+
+.card {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  
+
+  width: 70%;
+  min-height: 100%;
+  padding: 50px;
+
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  border-radius: 20px;
+  background-color: rgba(255, 255, 255, 0.30);
+  box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+
+  backdrop-filter: blur(15px);
+}
+
+.card-footer {
+  font-size: 0.7em;
+  color: #446;
+}

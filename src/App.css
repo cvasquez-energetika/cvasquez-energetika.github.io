@@ -1,38 +1,15 @@
+body {
+  font: 1em/1.618 Inter, sans-serif;
+
+  
+  color: #224;
+  background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M0%2c426.725C88.007%2c429.687%2c181.345%2c444.886%2c257.509%2c400.692C334.8%2c355.844%2c374.562%2c269.294%2c411.528%2c187.938C448.434%2c106.713%2c494.465%2c18.262%2c470.296%2c-67.618C446.561%2c-151.956%2c352.992%2c-190.721%2c288.326%2c-249.836C232.028%2c-301.302%2c182.949%2c-357.254%2c115.177%2c-392.256C35.112%2c-433.606%2c-53.479%2c-501.237%2c-138.011%2c-470.021C-223.387%2c-438.494%2c-228.566%2c-318.158%2c-282.998%2c-245.219C-332.058%2c-179.479%2c-419.084%2c-142.396%2c-441.41%2c-63.465C-464.65%2c18.695%2c-438.728%2c106.508%2c-404.628%2c184.787C-370.107%2c264.032%2c-320.793%2c339.366%2c-246.605%2c383.725C-173.508%2c427.431%2c-85.119%2c423.86%2c0%2c426.725' fill='%230b2239'%3e%3c/path%3e%3cpath d='M1440 1038.161C1533.644 1064.2060000000001 1651.583 1066.393 1723.222 1000.702 1795.718 934.2239999999999 1768.975 815.453 1788.09 718.967 1802.396 646.752 1826.075 578.633 1821.393 505.164 1816.396 426.759 1803.625 348.002 1760.2730000000001 282.482 1713.403 211.644 1650.873 143.01999999999998 1568.382 122.77100000000002 1486.794 102.743 1405.814 146.29700000000003 1327.306 176.2 1254.487 203.93599999999998 1189.5 241.524 1128.69 290.248 1055.836 348.623 963.846 398.07 938.327 487.87 912.163 579.94 934.26 688.957 994.173 763.602 1051.496 835.02 1164.695 819.027 1242.672 867.049 1318.336 913.646 1354.389 1014.35 1440 1038.161' fill='%23113255'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e") no-repeat center fixed;
+  background-size: cover;
+}
+
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+  flex-wrap: wrap;
+  flex-flow: column wrap;
+  justify-content: space-around;
 }
