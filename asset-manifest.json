@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cvasquez-energetika.github.io/static/css/main.3f55ab26.css",
-    "main.js": "/cvasquez-energetika.github.io/static/js/main.1b623981.js",
-    "static/media/logo.png": "/cvasquez-energetika.github.io/static/media/logo.9a3d3acea657e2c5b7dc.png",
-    "index.html": "/cvasquez-energetika.github.io/index.html",
-    "main.3f55ab26.css.map": "/cvasquez-energetika.github.io/static/css/main.3f55ab26.css.map",
-    "main.1b623981.js.map": "/cvasquez-energetika.github.io/static/js/main.1b623981.js.map"
+    "main.css": "/support/static/css/main.3f55ab26.css",
+    "main.js": "/support/static/js/main.52d5fec4.js",
+    "static/media/logo.png": "/support/static/media/logo.9a3d3acea657e2c5b7dc.png",
+    "index.html": "/support/index.html",
+    "main.3f55ab26.css.map": "/support/static/css/main.3f55ab26.css.map",
+    "main.52d5fec4.js.map": "/support/static/js/main.52d5fec4.js.map"
   },
   "entrypoints": [
     "static/css/main.3f55ab26.css",
-    "static/js/main.1b623981.js"
+    "static/js/main.52d5fec4.js"
   ]
 }
