@@ -69,7 +69,7 @@ const Policy = () => {
       <p>
         Si tiene alguna pregunta sobre nuestra política de privacidad, puede
         ponerse en contacto con nosotros por correo electrónico a {" "}
-        <strong>support@energetika.cl</strong>.
+        <strong>contacto@energetika.cl</strong>.
       </p>
 
       <p class="card-footer">Created by Carlos Vasquez</p>

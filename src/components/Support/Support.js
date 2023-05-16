@@ -16,7 +16,7 @@ const Support = () => {
     <p>Si experimentas problemas con la aplicación, comunicate con tu supervisor o jefe inmediato para reportar el fallo con el fin de poder darle seguimiento rapidamente.</p>
 
     <h2>Información de contacto</h2>
-    <p>Si tienes preguntas o problemas, contáctanos enviando un correo a <strong>support@energetika.cl</strong></p>
+    <p>Si tienes preguntas o problemas, contáctanos enviando un correo a <strong>contacto@energetika.cl</strong></p>
 
     <h2>Actualizaciones y noticias</h2>
     <p>...</p>
