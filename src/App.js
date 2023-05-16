@@ -11,7 +11,7 @@ function App() {
       <Routes>
         <Route path="support" Component={Support} />
         <Route path="policy" Component={Policy} />
-        <Route path="*" Component={Policy} />
+        <Route path="*" Component={Support} />
       </Routes>
     </div>
   );
