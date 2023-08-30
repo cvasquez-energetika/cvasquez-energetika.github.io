@@ -1,6 +1,6 @@
 {
-    "name": "progress_tracker_v3",
-    "short_name": "progress_tracker_v3",
+    "name": "mermaapp",
+    "short_name": "mermaapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
